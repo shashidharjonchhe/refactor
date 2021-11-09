@@ -13,7 +13,7 @@ There is no right or wrong answer, just consider this a chance to take some "leg
 
 Thank you for your time!
 
-![Refactor App Screenshot](./src/screenShot.png)
+![Refactor App Screenshot](./src/refactor-app-screenshot.png)
 
 ## Getting Started with Create React App
 
