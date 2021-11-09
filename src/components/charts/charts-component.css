@@ -1,0 +1,11 @@
+.row .col .card .card-header .btn-primary {
+    margin-left: 5%;
+    margin-right: 2%;
+}
+.card-body {
+    height: 500px;
+}
+
+.btn-grp Button {
+    margin-right: 5px;
+}
